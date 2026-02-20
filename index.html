@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MindBridge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <button class="theme-toggle" onclick="toggleTheme()">Dark Mode</button>
+
+    <h1>MindBridge</h1>
+    <p class="tagline">AI-Powered Peer Support & Emotional Safety</p>
+
+    <textarea id="journal" placeholder="Write your thoughts here..."></textarea>
+
+    <h3>Select what you're feeling (optional):</h3>
+
+    <div class="emotions">
+        <label><input type="checkbox" value="anxiety"> Anxiety</label>
+        <label><input type="checkbox" value="loneliness"> Loneliness</label>
+        <label><input type="checkbox" value="academic"> Academic Stress</label>
+        <label><input type="checkbox" value="breakup"> Breakup</label>
+        <label><input type="checkbox" value="family"> Family Issues</label>
+    </div>
+
+    <button onclick="findMatch()">Analyze & Find Support</button>
+    <button class="secondary-btn" onclick="openChat()">Talk to AI</button>
+
+    <div id="result"></div>
+
+    <div id="chatBox" class="chat-box">
+        <div class="chat-header">AI Support Chat</div>
+        <div id="chatMessages" class="chat-messages"></div>
+        <div class="chat-input">
+            <input type="text" id="chatInput" placeholder="Type your message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
