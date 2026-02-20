@@ -23,6 +23,7 @@ Most open a browser.
 
 That moment — right before escalation — is where MindBridge exists.
 
+
 **Our Mission**
 
 MindBridge is designed as an early emotional intervention platform.
@@ -32,6 +33,7 @@ It does not claim to cure.
 
 It acts as the first safe digital step —
 where someone can type what they are feeling and be heard without judgment.
+
 
 **What Makes MindBridge Different**
 
@@ -44,6 +46,7 @@ Early Detection
 Responsible AI Behavior
 
 Calm, Human-Centered Design
+
 
 **Key Capabilities**
 **Intelligent Emotional Analysis**
@@ -61,6 +64,7 @@ Emotional overwhelm
 
 The experience feels validating rather than mechanical.
 
+
 **Real-Time Crisis Detection**
 
 If language related to self-harm or suicide is detected:
@@ -75,6 +79,7 @@ Example:
 India Mental Health Helpline: 1800-599-0019
 
 This ensures ethical AI behavior and prioritizes safety over engagement.
+
 
 **Peer Support Matching**
 
@@ -99,6 +104,7 @@ Simulates natural typing delays
 Maintains a non-judgmental tone
 
 It provides emotional acknowledgment without replacing professional care.
+
 
 **Emotionally Calibrated Design**
 
@@ -141,6 +147,7 @@ JavaScript
 Lightweight. Fast. Accessible.
 No heavy dependencies. No barriers to deployment.
 
+
 **System Flow**
 
 User writes emotional input
@@ -154,6 +161,7 @@ Crisis detection (if applicable)
 Peer compatibility generation
 
 Supportive AI chat availability
+
 
 **Ethical Positioning**
 
@@ -175,6 +183,7 @@ A replacement for professional care
 
 Safety is prioritized over engagement metrics.
 
+
 **Future Scope**
 
 With backend and AI API integration, MindBridge can evolve into:
@@ -191,6 +200,7 @@ Secure anonymous peer-to-peer networks
 
 Emotional trend analytics dashboards
 
+
 **Impact Vision**
 
 Imagine a platform that catches emotional distress before it escalates.
@@ -199,6 +209,7 @@ Imagine a student typing “I can’t handle this anymore”
 and immediately seeing support instead of silence.
 
 MindBridge aims to become that bridge.
+
 
 **Disclaimer**
 
